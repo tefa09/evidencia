@@ -1,0 +1,21 @@
+table{
+    width: 25%;
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+th{
+    width: 33%;
+    border: 1px solid #000;
+    background: rgb(252, 163, 178);
+    color: pink;
+}
+td{
+    width: 33%;
+    border: 1px solid #000;
+    background: rgb(252, 163, 178);
+    color: pink;}
+.tabla2{
+    width: 25%;
+    border: 1px solid #000;
+    border-collapse: collapse;   
+}

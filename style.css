@@ -1,0 +1,41 @@
+*{
+    font-family: cursive;
+    
+}
+
+#nom{
+    background: rgba(90, 109, 158, 0.87);
+    border: 2px solid #000;
+}
+.color{
+    
+color: white;
+border: 2px solid #000;    
+}
+
+table{
+    width: 100%;
+    border: 2px solid #000;
+    border-collapse: collapse;
+}
+
+th{ 
+    width:17%;
+    border: 2px solid #000;
+    background: rgba(136, 169, 251, 0.87);
+    color: #000;
+}
+
+td{
+    width: 17%;
+    border: 2px solid #000;
+    background: rgba(161, 187, 255, 0.87);
+    color: #000;
+}
+
+tr:hover td{
+    background-color: rgba(90, 109, 158, 0.87);
+    color: white}
+    
+
+
